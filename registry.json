@@ -1,0 +1,16 @@
+{
+  "provider_id": "anyscale",
+  "name": "Anyscale",
+  "primary_model": "llama",
+  "models": [
+    "meta-llama/Meta-Llama-3-70B-Instruct"
+  ],
+  "active": true,
+  "in_use_by": [],
+  "usage_stats": {
+    "requests": 0,
+    "tokens": 0,
+    "errors": 0
+  },
+  "created_at": "2026-04-09T04:35:03.790808Z"
+}
