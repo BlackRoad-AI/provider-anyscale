@@ -1,0 +1,11 @@
+{
+  "provider": "anyscale",
+  "models": {
+    "meta-llama/Meta-Llama-3-70B-Instruct": {
+      "latency_ms": null,
+      "tokens_per_sec": null,
+      "cost_per_1k": null
+    }
+  },
+  "last_benchmarked": null
+}
